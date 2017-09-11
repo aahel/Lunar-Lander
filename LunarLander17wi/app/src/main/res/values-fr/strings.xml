@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">La Belle Fusée</string>
+
+    <string name="play">Jouer</string>
+    <string name="stop">Arreter</string>
+    <string name="youwin">Victoire!</string>
+    <string name="youlose">Merde.</string>
+    <string name="score">Points: %1$d gagne</string>
+</resources>
